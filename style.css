@@ -1,0 +1,63 @@
+ #p1 {
+ 	font-family: Poor Richard;
+ 	font-size: 150px;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	color: pink;
+ 	}
+
+ #p2 {
+ 	font-family: Chiller;
+ 	font-size: 65px;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	color: Orange;
+ }
+
+ .fizz {
+ 	color: blue;
+ 	font-size: 50px;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	background-color: yellow;
+ 	border-radius: 100%;
+ 	display: inline-block;
+ 	margin-left: 100px;
+ 	padding: 75px;
+ }
+
+ .buzz {
+ 	color: red;
+ 	font-size: 50px;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	background-color: green;
+ 	border-radius: 100%;
+ 	display: inline-block;
+ 	margin-left: 100px;
+ 	padding: 85px;
+ }
+
+ .fizzBuzz {
+ 	color: green;
+ 	font-size: 50px;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	background-color: red;
+ 	border-radius: 100%;
+ 	display: inline-block;
+ 	margin-left: 100px;
+ 	padding: 100px;
+ }
+
+ .i {
+ 	color: yellow;
+ 	font-size: 50px;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	background-color: blue;
+ 	border-radius: 100%;
+ 	display: inline-block;
+ 	margin-left: 100px;
+ 	padding: 30px;
+ }
